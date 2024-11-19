@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashCardone
+- 👋 Hi, I’m Yash
 - 👀 I’m a Report Developer in the Technology Team
 
 <!---
